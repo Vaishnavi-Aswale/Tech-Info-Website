@@ -1,6 +1,6 @@
 # VA Tech-Info-Website
 This website is a Tech-Educational Platform for anyone and everyone who wants to learn and keep themselves updated with the latest Information Technology.
-Dedicated in providing high quality educational and informational content for everyone.
+Dedicated in providing high quality educational and informational content for everyone.It includes information about the services we provide
 
 <h2>Languages used:</h2>
 <ul>
@@ -15,9 +15,6 @@ Dedicated in providing high quality educational and informational content for ev
   <li>Visual Studio Code Text Editor</li>
   <li>Browser</li>
 </ul>
-
-
-
 
 
 
