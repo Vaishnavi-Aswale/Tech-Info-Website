@@ -10,7 +10,7 @@ Dedicated in providing high quality educational and informational content for ev
   <li>Bootstrap</li>
 </ul>
 
-<h2>Software Used:<h2>
+<h2>Software Used:</h2>
 <ul>
   <li>Visual Studio Code Text Editor</li>
   <li>Browser</li>
